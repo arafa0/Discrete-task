@@ -1,0 +1,8 @@
+C:\Users\zakariamohammed\Pictures\New folder\prime number 00\prime number 00\bin\Debug\prime number 00.exe.config
+C:\Users\zakariamohammed\Pictures\New folder\prime number 00\prime number 00\bin\Debug\prime number 00.exe
+C:\Users\zakariamohammed\Pictures\New folder\prime number 00\prime number 00\bin\Debug\prime number 00.pdb
+C:\Users\zakariamohammed\Pictures\New folder\prime number 00\prime number 00\obj\Debug\prime number 00.csproj.AssemblyReference.cache
+C:\Users\zakariamohammed\Pictures\New folder\prime number 00\prime number 00\obj\Debug\prime number 00.csproj.SuggestedBindingRedirects.cache
+C:\Users\zakariamohammed\Pictures\New folder\prime number 00\prime number 00\obj\Debug\prime number 00.csproj.CoreCompileInputs.cache
+C:\Users\zakariamohammed\Pictures\New folder\prime number 00\prime number 00\obj\Debug\prime number 00.exe
+C:\Users\zakariamohammed\Pictures\New folder\prime number 00\prime number 00\obj\Debug\prime number 00.pdb
